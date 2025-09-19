@@ -1,7 +1,6 @@
 ## Hi, I’m Elly!
 - 👀 I’m interested in computer graphics and animation.
-- 🌱 I’m currently learning React and Java.
-- 🤗 I’m always looking for growth opportunities! I'd love to collaborate in my current ongoing project [numie](https://github.com/ellyhpark/numie) as well.
+- ✨ I’m currently learning about particle systems.
 - 📫 How to reach me: ellyhpark@gmail.com
 - 🤍 Pronouns: she/her
 
